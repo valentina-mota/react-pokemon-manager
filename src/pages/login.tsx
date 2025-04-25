@@ -113,7 +113,7 @@ const Login: FunctionComponent = () => {
               </div>
               <div className="card-action center">
                 {/* Submit button */}
-                <button type="submit" className="btn">Valider</button>
+                <button type="submit" className="btn">Validate</button>
               </div>
             </div>
           </div>
