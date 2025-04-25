@@ -1,0 +1,22 @@
+@media only screen and (max-width: 768px) {
+    .row .col.offset-m2 {
+        margin-left: 5%;
+        width: 90%;
+    }
+    
+	.card .card-content {
+        padding: 0px;
+        padding-left: 4px
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    input[type=text]:not(.browser-default) {
+        font-size: 10px;
+    }
+    
+    .row .col.offset-m2 {
+        margin-left: 0%;
+        width: 100%;
+    }
+}
