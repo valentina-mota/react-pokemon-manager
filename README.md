@@ -2,7 +2,7 @@
 
 Pikareact is a Single Page Application built with **React** and **TypeScript** that simulates an interactive Pokédex. It includes a basic login system, protected routes, and full CRUD functionality.
 
-🔗 Live demo: [https://pikareact.netlify.app/pokemons/](https://pikareact.netlify.app/pokemons/)
+🔗 Live demo: [https://pikareact.netlify.app/pokemons/](https://pikareact.netlify.app/)
 
 ## 🔐 Authentication
 
