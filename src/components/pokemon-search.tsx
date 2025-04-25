@@ -19,6 +19,8 @@ const PokemonSearch: FunctionComponent = () => {
  
     PokemonService.searchPokemon(term).then(pokemons => setPokemons(pokemons));
   }
+
+    
   
   return (
     <div className="row"> 
