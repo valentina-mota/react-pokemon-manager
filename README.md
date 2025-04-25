@@ -2,7 +2,7 @@
 
 Pikareact is a Single Page Application built with **React** and **TypeScript** that simulates an interactive Pokédex. It includes a basic login system, protected routes, and full CRUD functionality.
 
-🔗 Live demo: [https://pikareact.netlify.app/pokemons/](https://pikareact.netlify.app/pokemons/)
+🔗 Live demo: [https://pikareact.netlify.app/](https://pikareact.netlify.app/)
 
 ## 🔐 Authentication
 
@@ -26,9 +26,10 @@ The app is built as a **Single Page Application (SPA)** using React Router. All 
 CRUD operations are handled via a local `db.json` file, served by [JSON Server](https://github.com/typicode/json-server), which simulates a RESTful API at `http://localhost:3001`.
 
 To start the API server, use:
-
+```
 bash:
 npm run start:api
+```
 
 ## 🛠️ Tech Stack
 
@@ -45,12 +46,13 @@ npm run start:api
 - *.ts: logic, services, and type definitions
 
 ## 🚀 Installation
-
+```
 git clone https://github.com/your-username/pikareact.git
 cd pikareact
 npm install
 npm run start         # Starts the React app
 npm run start:api     # Starts the fake API server (JSON Server)
+```
 
 ## 📌 Conclusion 
 
